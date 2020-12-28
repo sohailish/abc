@@ -7,7 +7,8 @@
       "imageUrl":"https://www.moumaachi.com/upload/company/ishraak-solutions.jpg",
       "time":"10:05 PM",
       "date":"01/10/20",
-      "position":"Flutter Developer"
+      "position":"Flutter Developer",
+      "vacancy": "2"
    },
    {
       "id":2,
@@ -17,7 +18,8 @@
       "imageUrl":"https://tbsnews.net/sites/default/files/styles/big_2/public/images/2019/08/28/tigerit.jpg?itok=EgWQhUTi&timestamp=1567001901",
       "time":"11:00 PM",
       "date":"01/10/20",
-      "position":"Web App"
+      "position":"Web App",
+      "vacancy": "2"
    },
    {
       "id":3,
@@ -27,7 +29,8 @@
       "imageUrl":"https://tbsnews.net/sites/default/files/styles/big_2/public/images/2020/05/16/data_soft_logo.jpg?itok=2xrziOPQ&timestamp=1589636098",
       "time":"08:30 PM",
       "date":"01/11/20",
-      "position":"IOS Developer"
+      "position":"IOS Developer",
+      "vacancy": "2"
    },
    {
       "id":4,
@@ -37,7 +40,8 @@
       "imageUrl":"https://www.leads.com.bd/wp-content/uploads/2019/05/LEADS-with-white-Background-01-1.png",
       "time":"08:00 AM",
       "date":"10/11/20",
-      "position":"Android Developer"
+      "position":"Android Developer",
+      "vacancy": "2"
    },
    {
       "id":5,
@@ -47,7 +51,8 @@
       "imageUrl":"https://www.therapglobal.net/wp-content/uploads/2018/05/logo-therap-global-v2-01-01-1.png",
       "time":"10:10 AM",
       "date":"11/11/20",
-      "position":"IOS Developer"
+      "position":"IOS Developer",
+      "vacancy": "2"
    },
    {
       "id":6,
@@ -57,7 +62,8 @@
       "imageUrl":"https://www.moumaachi.com/upload/company/ishraak-solutions.jpg",
       "time":"01:10",
       "date":"01/11/20",
-      "position":"Flutter Developer"
+      "position":"Flutter Developer",
+      "vacancy": "2"
    },
    {
       "id":7,
@@ -67,7 +73,8 @@
       "imageUrl":"https://www.moumaachi.com/upload/company/ishraak-solutions.jpg",
       "time":"10:05 PM",
       "date":"01/10/20",
-      "position":"Flutter Developer"
+      "position":"Flutter Developer",
+      "vacancy": "2"
    },
    {
       "id":8,
@@ -77,7 +84,8 @@
       "imageUrl":"https://tbsnews.net/sites/default/files/styles/big_2/public/images/2019/08/28/tigerit.jpg?itok=EgWQhUTi&timestamp=1567001901",
       "time":"11:00 PM",
       "date":"01/10/20",
-      "position":"Web App"
+      "position":"Web App",
+      "vacancy": "2"
    },
    {
       "id":9,
@@ -87,7 +95,8 @@
       "imageUrl":"https://www.leads.com.bd/wp-content/uploads/2019/05/LEADS-with-white-Background-01-1.png",
       "time":"08:30 PM",
       "date":"01/11/20",
-      "position":"IOS Developer"
+      "position":"IOS Developer",
+      "vacancy": "2"
    },
    {
       "id":10,
@@ -97,7 +106,8 @@
       "imageUrl":"https://www.leads.com.bd/wp-content/uploads/2019/05/LEADS-with-white-Background-01-1.png",
       "time":"08:00 AM",
       "date":"10/11/20",
-      "position":"Android Developer"
+      "position":"Android Developer",
+      "vacancy": "2"
    },
    {
       "id":11,
@@ -107,7 +117,8 @@
       "imageUrl":"https://www.therapglobal.net/wp-content/uploads/2018/05/logo-therap-global-v2-01-01-1.png",
       "time":"10:10 AM",
       "date":"11/11/20",
-      "position":"IOS Developer"
+      "position":"IOS Developer",
+      "vacancy": "2"
    },
    {
       "id":12,
@@ -117,6 +128,7 @@
       "imageUrl":"https://www.moumaachi.com/upload/company/ishraak-solutions.jpg",
       "time":"01:10",
       "date":"01/11/20",
-      "position":"Flutter Developer"
+      "position":"Flutter Developer",
+      "vacancy": "2"
    }
 ]
